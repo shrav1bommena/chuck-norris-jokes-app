@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chuck-norris-jokes-app/static/css/main.7122ff55.css",
+    "main.js": "/chuck-norris-jokes-app/static/js/main.059c1c54.js",
+    "index.html": "/chuck-norris-jokes-app/index.html",
+    "main.7122ff55.css.map": "/chuck-norris-jokes-app/static/css/main.7122ff55.css.map",
+    "main.059c1c54.js.map": "/chuck-norris-jokes-app/static/js/main.059c1c54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7122ff55.css",
+    "static/js/main.059c1c54.js"
+  ]
+}
