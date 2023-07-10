@@ -1,0 +1,36 @@
+.main-body {
+  background-image: linear-gradient(90deg, #4286f4, #373b44);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.main-title {
+  margin: 0;
+  padding: 10px;
+  font-size: 36px;
+  color: yellowgreen;
+}
+
+.categories-list {
+  list-style-type: none;
+  padding-left: 0;
+  max-width: 352px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media screen and (min-width: 768px) {
+  .categories-list {
+    max-width: 528px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .categories-list {
+    max-width: 1024px;
+  }
+}
